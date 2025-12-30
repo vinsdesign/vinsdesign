@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-## 👋 Hi, I'm Kelvin<br><br>
+## 👋 Hi, I'm Kelvin<br>
 
-##### I'm a **Full-Stack Developer** who enjoys building clean, scalable web apps—from backend APIs to modern, responsive UI.<br><br>
+### I'm a **Full-Stack Developer** who enjoys building clean, scalable web apps—from backend APIs to modern, responsive UI.<br><br>
 
 #### 🚀 What I do<br>
 
